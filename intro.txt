@@ -1,0 +1,60 @@
+Industry : 
+
+1) Software : c,c++,java,python 
+2) Website : 
+
+-> Front-End : HTML,CSS,JS
+-> Back-End : DB , DB Connection , DB Handle
+-> Full-stack : Front + Back
+
+
+Website : collection of webpages
+Webpages : structure of HTML , CSS , JS
+
+HTML : Hyper Text Markup Language
+CSS : Cascading StyleSheet (Style,color and animation provide)
+JS : JavaScript (html page logic provide)
+
+HTML : Hyper Text Markup Language
+ -> HyperText : Link Of webpages
+ -> Markup Language: <h1></h1>
+
+<> - Opening Tag
+</> - Closing Tag
+
+<hr /> - self closing tag
+<br /> - self closing tag
+
+HTML Language is Error less Language 
+
+HTML Basic Structure: ! (for basic structure (boilerplate))
+----------------------------------------------------------------------
+<html>
+    <head>
+        <title>Website Title</title>
+    </head>
+    <body>
+        <p>My first Webpage</p>
+    </body>
+</html>
+
+
+
+file Name : filename.html / .htm
+
+Browser : Chrome , safari , Edge , Firefox (use for run the website)
+Search Engine : Google , Bing , Yahoo!! , Duck Duck go!! (Website search)
+
+
+
+<!DOCTYPE html> -> to tell the browser about your file
+lang="en" -> to provide Language of html code
+<meta charset="UTF-8"> -> data of data / meta data
+
+h1 - h6 ==> SE Optimize h1 priority up h6 priority down
+
+
+
+
+br -> break rule
+hr -> horizontal rule
